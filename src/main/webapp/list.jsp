@@ -12,7 +12,7 @@
         <title>JSP Page</title>
         <style>
             body {
-                background-image: url('main.jpeg');
+                background-image: url('run4food.png');
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-position: right;

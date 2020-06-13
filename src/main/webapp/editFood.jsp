@@ -14,6 +14,14 @@
             src="https://code.jquery.com/jquery-3.3.1.js"
         ></script>
         <script src="https://cdn.jsdelivr.net/npm/vue@2.6.7/dist/vue.js"></script>
+        <style>
+            body {
+                background-image: url('point.png');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: right;
+            }
+        </style>
         <script>
             var v = null;
             $(document).ready(function () {

@@ -10,6 +10,14 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+        <style>
+            body {
+                background-image: url('cook.png');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: right;
+            }
+        </style>
         <script
             src="https://code.jquery.com/jquery-3.3.1.js"
         ></script>

@@ -6,6 +6,7 @@
        http://www.springframework.org/schema/context/spring-context.xsd"
        xmlns:context="http://www.springframework.org/schema/context">
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        
         <!--
         question 1 (15%):
         setup datasource using the following parameters
